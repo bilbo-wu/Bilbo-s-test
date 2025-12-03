@@ -1,0 +1,7 @@
+{
+  "name": "Copy of TeacherFocus",
+  "description": "A dedicated productivity and schedule management app for private high school homeroom teachers.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
